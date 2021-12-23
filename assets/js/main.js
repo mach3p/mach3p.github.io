@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg04.jpg': 'center',
-							'images/bg05.jpg': 'center',
-							'images/bg06.jpg': 'center'
+							'https://www.mach3p.com/images/clark.jpg': 'center',
+							'https://www.mach3p.com/images/lemah.jpg': 'center',
+							'https://www.mach3p.com/images/huckleberry.jpg': 'center'
 						},
 
 					// Delay.
